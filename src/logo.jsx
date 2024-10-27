@@ -1,8 +1,7 @@
-import { logo } from "./logo.svg";
 const Logo = () => {
   return (
     <div>
-      <img src={logo} className="App-logo" alt="logo" />
+      <p className="text-slate-900 text-4xl absolute top-1/2 left-1/2">POPO</p>
     </div>
   );
 };
