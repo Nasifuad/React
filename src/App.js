@@ -7,6 +7,9 @@ const TodoApp = () => {
         <Todo />
         <Todo />
         <Todo />
+        <Todo />
+        <Todo />
+        <Todo />
       </div>
     </div>
   );
